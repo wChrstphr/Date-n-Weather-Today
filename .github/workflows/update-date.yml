@@ -1,0 +1,53 @@
+name: GitHub Self-Updating Repository for Todays Date
+run-name: ${{ github.actor }} self-updating repository is here to tell you what is the date today 📅
+on:
+  # Schedule docs
+  # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
+  schedule:
+    # At the beginning of every day.
+    - cron: "0 0 * * *"
+
+# on: [push]
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        # https://github.com/actions/checkout/tree/v3.0.2
+        uses: actions/checkout@v4
+      - name: Modify date and time
+        run: |
+        
+          # Current Date and Hour
+          current_date=$(date "+%d/%m/%Y %H:%M:%S")
+          
+          # Current Season - Southern Hemisphere
+          month=$(date +%m)
+          day=$(date +%d)
+          if [[ ($month == 12 && $day -ge 21) || ($month -le 2) || ($month == 3 && $day -le 20) ]]; then
+            season="Summer"
+          elif [[ ($month == 3 && $day -ge 21) || ($month -le 5) || ($month == 6 && $day -le 20) ]]; then
+            season="Autumn"
+          elif [[ ($month == 6 && $day -ge 21) || ($month -le 8) || ($month == 9 && $day -le 20) ]]; then
+            season="Winter"
+          else
+            season="Spring"
+          fi
+          
+          # Criar conteúdo do README
+          echo "## Date and Hour: $current_date 📅" >> README.md
+          echo "" >> README.md
+          echo "## Current Season: 🌸🍂❄️🌻" >> README.md
+          echo "Atualmente estamos no **$season**" >> README.md
+          echo "" >> README.md
+          echo "## Weather: ☀️🌤️⛅🌧️" >> README.md
+          echo "**Working in Progress**" >> README.md
+          
+      - name: Push to repository
+        run: |
+          git config --global user.name "Christopher Escobar"
+          git config --global user.email "105730846+wChrstphr@users.noreply.github.com"
+          git add README.md
+          git commit -m "Automated Push on $now"
+          git push
