@@ -6,11 +6,12 @@ on:
   schedule:
     # At the beginning of every day.
     - cron: "0 0 * * *"
+  dispatch-workflow:
 
 # on: [push]
 
 jobs:
-  report:
+  update:
     runs-on: ubuntu-latest
     steps:
        # Github: https://github.com/actions/checkout/tree/v3.0.2
