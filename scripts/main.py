@@ -26,8 +26,7 @@ def main():
 **Humidity:** {weather_data['humidity']}%  
 **Last Updated (D/M/Y):** {current_time.strftime('%d/%m/%Y %H:%M')}
 ##
-<br>
-<div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a></div>
+<div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a> 🌱</div>
 """
     
     # Save outputs in the README.md file
