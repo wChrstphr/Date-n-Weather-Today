@@ -1,5 +1,5 @@
 name: GitHub Self-Updating Repository for Todays Date and Weather
-run-name: ${{ github.actor }} self-updating repository is here to tell you what is the date and weather today 📅
+run-name: ${{ github.actor }} self-updating repository ♻️
 on:
   workflow_dispatch:
   # Schedule docs
@@ -33,7 +33,7 @@ jobs:
         
       - name: Run main script
         env:
-          PYTHONPATH: ${{ github.workspace }}  # Adicione esta linha
+          PYTHONPATH: ${{ github.workspace }}  # So the script knows from where it can import things
         run: python scripts/main.py
         
       - name: Commit and push changes repository
