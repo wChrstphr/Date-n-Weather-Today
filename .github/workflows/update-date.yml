@@ -10,7 +10,7 @@ on:
 # on: [push]
 
 jobs:
-  build:
+  report:
     runs-on: ubuntu-latest
     steps:
        # Github: https://github.com/actions/checkout/tree/v3.0.2
