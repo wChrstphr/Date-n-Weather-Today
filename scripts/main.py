@@ -14,17 +14,20 @@ def main():
     # Generate README content
     readme_content = f""" # Today's Date and Weather
     
-### Date and Time: {datetime_info['formatted_date']} 🕒
-**Local Time:** {datetime_info['formatted_time']} (GMT-3)
----
-### Current Season: {datetime_info['season']}
----
-### Weather Conditions: {WEATHER_DESCRIPTIONS.get(weather_data['weather_code'], 'N/A')}
+## Date and Time
+{datetime_info['formatted_date']} 📅
+{datetime_info['formatted_time']} (GMT-3) 🕒
+
+## Current Season
+{datetime_info['season']}
+## Weather 
+**Conditions:** {WEATHER_DESCRIPTIONS.get(weather_data['weather_code'], 'N/A')}
 **Temperature:** {weather_data['temperature']:.1f}°C  
 **Humidity:** {weather_data['humidity']}%  
 **Last Updated (D/M/Y):** {current_time.strftime('%d/%m/%Y %H:%M')}
----
-Inspired by [leimao's repository](https://github.com/leimao/What-Is-The-Date-Today)
+
+<br>
+<div align="center">Inspired by [leimao's repository](https://github.com/leimao/What-Is-The-Date-Today)</div>
 """
     
     # Save outputs in the README.md file
