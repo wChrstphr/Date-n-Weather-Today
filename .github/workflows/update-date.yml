@@ -32,6 +32,8 @@ jobs:
         run: mkdir -p data
         
       - name: Run main script
+        env:
+          PYTHONPATH: ${{ github.workspace }}  # Adicione esta linha
         run: python scripts/main.py
         
       - name: Commit and push changes repository
