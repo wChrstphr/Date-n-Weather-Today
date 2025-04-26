@@ -1,15 +1,15 @@
  # Today's Date and Weather
     
 ## Date and Time
-April 25, 2025 📅
-00:38 (GMT-3) 🕒
+April 26, 2025 📅
+00:34 (GMT-3) 🕒
 
 ## Current Season
 Autumn 🍂
 ## Weather 
-**Conditions:** Rain, not freezing, continuous 🌧️
-**Temperature:** 19.5°C  
-**Humidity:** 95.0%  
-**Last Updated (D/M/Y):** 25/04/2025 00:38
+**Conditions:** Clouds generally forming or developing ☁️
+**Temperature:** 18.9°C  
+**Humidity:** 94.0%  
+**Last Updated (D/M/Y):** 26/04/2025 00:34
 ##
 <div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a> 🌱</div>
