@@ -1,15 +1,15 @@
  # Today's Date and Weather
     
 ## Date and Time
-June 6, 2025 📅
-00:49 (GMT-3) 🕒
+June 7, 2025 📅
+00:46 (GMT-3) 🕒
 
 ## Current Season
 Autumn 🍂
 ## Weather 
-**Conditions:** Clouds generally forming or developing ☁️
-**Temperature:** 19.3°C  
-**Humidity:** 89.0%  
-**Last Updated (D/M/Y):** 06/06/2025 00:49
+**Conditions:** Fog or ice fog, sky invisible 🌫️
+**Temperature:** 17.0°C  
+**Humidity:** 96.0%  
+**Last Updated (D/M/Y):** 07/06/2025 00:46
 ##
 <div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a> 🌱</div>
