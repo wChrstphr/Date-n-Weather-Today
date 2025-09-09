@@ -1,15 +1,15 @@
  # Today's Date and Weather
     
 ## Date and Time
-September 8, 2025 📅
-00:40 (GMT-3) 🕒
+September 9, 2025 📅
+00:36 (GMT-3) 🕒
 
 ## Current Season
 Winter ❄️
 ## Weather 
-**Conditions:** Clouds generally forming or developing ☁️
-**Temperature:** 16.8°C  
-**Humidity:** 93.0%  
-**Last Updated (D/M/Y):** 08/09/2025 00:40
+**Conditions:** Clouds generally dissolving or becoming less developed 🌤
+**Temperature:** 20.8°C  
+**Humidity:** 84.0%  
+**Last Updated (D/M/Y):** 09/09/2025 00:36
 ##
 <div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a> 🌱</div>
