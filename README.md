@@ -1,15 +1,15 @@
  # Today's Date and Weather
     
 ## Date and Time
-November 30, 2025 📅
-00:59 (GMT-3) 🕒
+December 1, 2025 📅
+01:14 (GMT-3) 🕒
 
 ## Current Season
 Spring 🌸
 ## Weather 
-**Conditions:** Clouds generally dissolving or becoming less developed 🌤
-**Temperature:** 20.2°C  
-**Humidity:** 74.0%  
-**Last Updated (D/M/Y):** 30/11/2025 00:59
+**Conditions:** State of sky on the whole unchanged ⛅
+**Temperature:** 19.3°C  
+**Humidity:** 91.0%  
+**Last Updated (D/M/Y):** 01/12/2025 01:14
 ##
 <div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a> 🌱</div>
