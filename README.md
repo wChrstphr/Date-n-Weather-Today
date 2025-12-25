@@ -1,15 +1,15 @@
  # Today's Date and Weather
     
 ## Date and Time
-December 24, 2025 📅
-01:00 (GMT-3) 🕒
+December 25, 2025 📅
+01:02 (GMT-3) 🕒
 
 ## Current Season
 Summer ☀️
 ## Weather 
-**Conditions:** Clouds generally dissolving or becoming less developed 🌤
-**Temperature:** 26.0°C  
-**Humidity:** 59.0%  
-**Last Updated (D/M/Y):** 24/12/2025 01:00
+**Conditions:** Cloud development not observed or not observable ☀️
+**Temperature:** 25.1°C  
+**Humidity:** 64.0%  
+**Last Updated (D/M/Y):** 25/12/2025 01:02
 ##
 <div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a> 🌱</div>
