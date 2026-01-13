@@ -1,15 +1,15 @@
  # Today's Date and Weather
     
 ## Date and Time
-January 12, 2026 📅
-01:14 (GMT-3) 🕒
+January 13, 2026 📅
+01:05 (GMT-3) 🕒
 
 ## Current Season
 Summer ☀️
 ## Weather 
-**Conditions:** Fog or ice fog, sky invisible 🌫️
-**Temperature:** 23.8°C  
-**Humidity:** 99.0%  
-**Last Updated (D/M/Y):** 12/01/2026 01:14
+**Conditions:** State of sky on the whole unchanged ⛅
+**Temperature:** 23.5°C  
+**Humidity:** 83.0%  
+**Last Updated (D/M/Y):** 13/01/2026 01:05
 ##
 <div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a> 🌱</div>
