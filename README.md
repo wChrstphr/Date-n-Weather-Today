@@ -1,15 +1,15 @@
  # Today's Date and Weather
     
 ## Date and Time
-April 11, 2026 📅
-02:01 (GMT-3) 🕒
+April 12, 2026 📅
+02:28 (GMT-3) 🕒
 
 ## Current Season
 Autumn 🍂
 ## Weather 
-**Conditions:** State of sky on the whole unchanged ⛅
-**Temperature:** 17.3°C  
-**Humidity:** 89.0%  
-**Last Updated (D/M/Y):** 11/04/2026 02:01
+**Conditions:** Clouds generally dissolving or becoming less developed 🌤
+**Temperature:** 16.8°C  
+**Humidity:** 88.0%  
+**Last Updated (D/M/Y):** 12/04/2026 02:28
 ##
 <div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a> 🌱</div>
