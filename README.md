@@ -1,15 +1,15 @@
  # Today's Date and Weather
     
 ## Date and Time
-May 4, 2026 📅
-03:18 (GMT-3) 🕒
+May 5, 2026 📅
+02:47 (GMT-3) 🕒
 
 ## Current Season
 Autumn 🍂
 ## Weather 
 **Conditions:** Cloud development not observed or not observable ☀️
-**Temperature:** 14.3°C  
-**Humidity:** 94.32543182373047%  
-**Last Updated (D/M/Y):** 04/05/2026 03:18
+**Temperature:** 17.4°C  
+**Humidity:** 95.05662536621094%  
+**Last Updated (D/M/Y):** 05/05/2026 02:47
 ##
 <div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a> 🌱</div>
