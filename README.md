@@ -1,15 +1,15 @@
  # Today's Date and Weather
     
 ## Date and Time
-June 13, 2026 📅
-01:35 (GMT-3) 🕒
+June 14, 2026 📅
+01:37 (GMT-3) 🕒
 
 ## Current Season
 Autumn 🍂
 ## Weather 
-**Conditions:** Clouds generally forming or developing ☁️
-**Temperature:** 16.3°C  
-**Humidity:** 91.13131713867188%  
-**Last Updated (D/M/Y):** 13/06/2026 01:35
+**Conditions:** Drizzle, not freezing, continuous 🌧️
+**Temperature:** 16.8°C  
+**Humidity:** 93.53009033203125%  
+**Last Updated (D/M/Y):** 14/06/2026 01:37
 ##
 <div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a> 🌱</div>
