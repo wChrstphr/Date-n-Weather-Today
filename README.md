@@ -1,15 +1,15 @@
  # Today's Date and Weather
     
 ## Date and Time
-June 24, 2026 📅
-01:31 (GMT-3) 🕒
+June 25, 2026 📅
+01:30 (GMT-3) 🕒
 
 ## Current Season
 Winter ❄️
 ## Weather 
-**Conditions:** Drizzle, not freezing, continuous 🌧️
-**Temperature:** 12.7°C  
-**Humidity:** 96.45438385009766%  
-**Last Updated (D/M/Y):** 24/06/2026 01:31
+**Conditions:** Clouds generally forming or developing ☁️
+**Temperature:** 11.1°C  
+**Humidity:** 95.77168273925781%  
+**Last Updated (D/M/Y):** 25/06/2026 01:30
 ##
 <div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a> 🌱</div>
