@@ -1,15 +1,15 @@
  # Today's Date and Weather
     
 ## Date and Time
-September 12, 2026 📅
-00:20 (GMT-3) 🕒
+September 13, 2026 📅
+00:21 (GMT-3) 🕒
 
 ## Current Season
 Winter ❄️
 ## Weather 
-**Conditions:** Rain shower(s), moderate or heavy 🌧️
-**Temperature:** 19.1°C  
-**Humidity:** 96.32200622558594%  
-**Last Updated (D/M/Y):** 12/09/2026 00:20
+**Conditions:** Drizzle, not freezing, continuous 🌧️
+**Temperature:** 15.6°C  
+**Humidity:** 96.53347778320312%  
+**Last Updated (D/M/Y):** 13/09/2026 00:21
 ##
 <div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a> 🌱</div>
