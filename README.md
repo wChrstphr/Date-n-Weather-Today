@@ -1,15 +1,15 @@
  # Today's Date and Weather
     
 ## Date and Time
-November 16, 2026 📅
-00:15 (GMT-3) 🕒
+November 17, 2026 📅
+00:13 (GMT-3) 🕒
 
 ## Current Season
 Spring 🌸
 ## Weather 
-**Conditions:** Drizzle, not freezing, continuous 🌧️
-**Temperature:** 18.4°C  
-**Humidity:** 96.29986572265625%  
-**Last Updated (D/M/Y):** 16/11/2026 00:15
+**Conditions:** Clouds generally forming or developing ☁️
+**Temperature:** 19.0°C  
+**Humidity:** 89.58808135986328%  
+**Last Updated (D/M/Y):** 17/11/2026 00:13
 ##
 <div align="center">Inspired by <a href="https://github.com/leimao/What-Is-The-Date-Today">leimao's repository</a> 🌱</div>
